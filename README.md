@@ -34,6 +34,6 @@ Goal - I want contributors to help me list some interesting places.
 5.shirakawa-go, Gifu <br/>
 6.Sultanahmet（Turkey）<br/>
 7.Kitora Tomb　（Nara, Japan）<br/>
-8. <br/>
+8.Nara Park (Nara, Japan) <br/>
 9. <br/>
 10. <br/>
