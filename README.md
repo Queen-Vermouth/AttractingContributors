@@ -37,3 +37,5 @@ Goal - I want contributors to help me list some interesting places.
 8.Nara Park (Nara, Japan) <br/>
 9.Antarctica <br/>
 10. Shenzhen Electronics Market (Guangdong, China) <br/>
+11.Venezia Italiana <br/>
+
